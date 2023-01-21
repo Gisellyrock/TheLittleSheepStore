@@ -17,3 +17,13 @@ body {
   justify-content: center;
   align-items: center;
 }
+
+.container {
+  width: 80%;
+  box-shadow: 0 0 1rem 0 rgba(0,0,0, 0.2);
+  border-radius: 20px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
