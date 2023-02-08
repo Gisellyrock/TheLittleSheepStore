@@ -5,7 +5,7 @@
 I am creating websites with my caracters that I made. The Little Sheep - As Ovelhinhas -  is about my social project for children, where I teach arts and soft skills in a funny way. 
 This especifc website I created using HTML and CSS. I learned more CSS and make me figure out that have to study more and more it.
 
-#  DEMO
+#  Deploy
 https://sparkly-tulumba-7650bc.netlify.app/
 
 # Video
